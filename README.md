@@ -1,8 +1,6 @@
 # E-Fatura.xslt
 
-E-Fatura XSLT Dosyası
-
-Üst Alan (Logo ve Firma Bilgileri, Firma Logo, Firma Bilgileri, E-Fatura Logo, Müşteri ve ETTN ve Fatura Bilgileri, Müşteri Bilgileri, Fatura Bilgileri)
+Üst Alan (Logo ve Firma Bilgileri, E-Fatura Logo, Müşteri ve ETTN ve Fatura Bilgileri)
 
 Satırlar
 
